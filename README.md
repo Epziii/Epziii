@@ -85,7 +85,9 @@ Business & Research:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epziii&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=HaCkr-EPZI-public&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaCkr-EPZI-public&layout=compact&theme=tokyonight" />
-
+</p>
+<hr>
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Epziii&theme=tokyonight"/>
   <img src="https://streak-stats.demolab.com/?user=HaCkr-EPZI-public&theme=tokyonight"/>
 </p>

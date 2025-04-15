@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Epziii&label=Profile+Views&color=blueviolet&style=flat-square" alt="visitor counter"/>
-  <img src="https://komarev.com/ghpvc/?username=HaCkr-EPZI-public&label=Alt+Profile+Views&color=blue&style=flat-square" alt="alt visitor counter"/>
+  <img src="https://profile-counter.glitch.me/Epziii/count.svg" alt="Epziii visitor counter"/>
+  <img src="https://profile-counter.glitch.me/HaCkr-EPZI-public/count.svg" alt="HaCkr-EPZI-public visitor counter"/>
 </p>
 
 ---
@@ -62,12 +62,12 @@ Business & Research:
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@EPZi" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://web.facebook.com/yuren.sasanka" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://t.me/@epziii" target="_blank">
+  <a href="https://t.me/epziii" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
@@ -85,10 +85,9 @@ Business & Research:
 
 ---
 
-### ⏱️ WakaTime Coding Activity
+### 🧠 Current GitHub Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Epziii&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HaCkr-EPZI-public&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Epziii&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---

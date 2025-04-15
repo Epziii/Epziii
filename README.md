@@ -2,6 +2,11 @@
   <img src="https://i.ibb.co/vx0TC8J2/Whats-App-Image-2025-03-06-at-20-07-18-724341eb.jpg" width="200" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1/1;" alt="Yuren Sasanka" />
 </div>
 
+<div align="center">
+<marquee behavior="scroll" direction="left" scrollamount="12" style="color:#F72585; font-size: 2em;">
+  🚀 Welcome to Yuren Sasanka's Dev Universe – Asmodeus Epzi on the Web! 👾
+</marquee></div>
+
 <h1 align="center">Hi 👋, I'm Yuren Sasanka (aka Epzi)</h1>
 <h3 align="center">🎓 17 y/o Software Engineering Student | 💻 Full-Stack Developer | 🎮 Gamer | 🤖 Bot Creator</h3>
 
@@ -18,15 +23,23 @@
 
 ---
 
-### ✨ 🧑‍💻 About Me:
+## 🧑‍💻 About Me
 
-- 🔭 Currently pursuing a **Bachelor’s Degree in Software Engineering** @ *Java Institute for Advanced Technology - SL*
-- 📚 Enrolled in **"Master Node.js & Deno.js"** course on Udemy
-- 👨‍💻 Built several web apps and bots (including a WhatsApp bot deployed on Keyob)
-- 🌐 Passionate about web development, AI, IoT, and cybersecurity
-- 🎮 Gamer — mostly **Valorant** & other PC multiplayer games
-- 📍 Based in **Nuwara Eliya, Sri Lanka**
-- 📫 Email: **yurensasanka0@gmail.com**
+🎓 17 y/o Software Engineering Student @ Java Institute, Sri Lanka  
+💻 Full-stack Developer | WhatsApp Bot Maker | AI Coder | Node.js Mastermind  
+🧠 Creator of **Asmodeus AI** and **Queen D Bot**  
+🐧 Linux Addict • Coding in VS Code • Hosting on Contabo VPS  
+📚 Learning Node.js, Java, SQL, MongoDB, GraphQL  
+🎮 Ex-MTA GTA SA RPer, now slaying in Valorant  
+🕵️ Malware researcher & cybersecurity enthusiast  
+📦 Contributor to 2 GitHub profiles:
+
+---
+
+## 🚀 GitHub Profiles
+
+- [`@Epziii`](https://github.com/Epziii)
+- [`@HaCkr-EPZI-public`](https://github.com/HaCkr-EPZI-public)
 
 ---
 
@@ -55,21 +68,13 @@ Business & Research:
 
 ### 🌐 Connect with Me:
 <p align="center">
-  <a href="https://www.instagram.com/yuren.sasanka/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://x.com/King_EPZI" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@EPZi" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://web.facebook.com/yuren.sasanka" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://t.me/epziii" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
+  <a href="mailto:yurensasanka0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Epziii"><img src="https://img.shields.io/badge/@Epziii-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/HaCkr-EPZI-public"><img src="https://img.shields.io/badge/@HaCkr--EPZI--public-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://t.me/epziii"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://x.com/King_EPZI"><img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/yuren.sasanka/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://web.facebook.com/yuren.sasanka"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ---
@@ -78,16 +83,22 @@ Business & Research:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Epziii&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epziii&layout=compact&theme=tokyonight" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=HaCkr-EPZI-public&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaCkr-EPZI-public&layout=compact&theme=tokyonight" />
+
+  <img src="https://streak-stats.demolab.com/?user=Epziii&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=HaCkr-EPZI-public&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🧠 Current GitHub Streak
+## 🏆 Trophies
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Epziii&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+> Main
+  <img src="https://github-profile-trophy.vercel.app/?username=Epziii&theme=tokyonight&no-frame=true&margin-w=10"/>
+> Alt
+  <img src="https://github-profile-trophy.vercel.app/?username=HaCkr-EPZI-public&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -110,3 +121,19 @@ Business & Research:
 - ⚡ I sometimes dream in code 🧠💻
 - 🎨 I love making UIs that pop and backends that never drop
 - 🧠 I believe sleep is a compile error I just ignore 😅
+
+## ✨ Quote
+
+> “Code is poetry. Creativity is power.”
+
+---
+
+## ❤️ Special Thanks
+
+- 💖 To **Dinathma** – my peace in chaos
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>

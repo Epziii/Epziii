@@ -11,9 +11,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&width=435&lines=Full-stack+developer+from+Sri+Lanka;Node.js+%7C+Deno.js+learner;PC+gamer+%7C+Valorant+%F0%9F%8E%AE;Loves+coding+and+building+cool+stuff" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Epziii&label=Profile+Views&color=blueviolet&style=flat-square" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=HaCkr-EPZI-public&label=Alt+Profile+Views&color=blue&style=flat-square" alt="alt visitor counter"/>
+</p>
+
 ---
 
-### 🧑‍💻 About Me:
+### ✨ 🧑‍💻 About Me:
 
 - 🔭 Currently pursuing a **Bachelor’s Degree in Software Engineering** @ *Java Institute for Advanced Technology - SL*
 - 📚 Enrolled in **"Master Node.js & Deno.js"** course on Udemy
@@ -25,7 +30,7 @@
 
 ---
 
-### 🛠️ Tech Stack:
+### ⚙️ Tech Stack:
 
 ```yaml
 Programming:
@@ -80,6 +85,14 @@ Business & Research:
 
 ---
 
+### ⏱️ WakaTime Coding Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Epziii&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HaCkr-EPZI-public&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ### 📬 Contact
 
 - 📧 **yurensasanka0@gmail.com**
@@ -90,3 +103,11 @@ Business & Research:
 ---
 
 > *“Code. Learn. Build. Repeat.” – Epzi 🧠💥*
+
+---
+
+### 🎯 Fun Fact Zone
+
+- ⚡ I sometimes dream in code 🧠💻
+- 🎨 I love making UIs that pop and backends that never drop
+- 🧠 I believe sleep is a compile error I just ignore 😅
